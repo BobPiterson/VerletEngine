@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+}
+
+.field {
+
+}
+
+.containerInfo {
+    text-align: left;
+    width: calc(50vw - 50vh);
+}
+
+.info {
+    margin: 15px;
+    color: #d4fff1;
+    font-size: 20pt;
+}
